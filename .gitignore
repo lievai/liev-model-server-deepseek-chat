@@ -1,0 +1,5 @@
+.env
+notebooks
+venv
+__pycache__
+logs
